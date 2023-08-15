@@ -128,6 +128,13 @@ button{
 
 
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-height: 720px) {
+  p{
+    margin: 0;
+  }
+  .c-right{
+    height: 57vh;
+  }
+
   
 }
